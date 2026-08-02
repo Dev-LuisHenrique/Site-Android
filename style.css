@@ -8,11 +8,6 @@
     src: url('pacote-projeto-d010/fontes/idroid.otf') format('opentype');
 }
 
-@media (max-width: 600px) {
-    aside > ul {
-        columns: 1;
-    }
-}
 
 :root {
     --cor0: #c5ebd6;
@@ -36,6 +31,7 @@ img {
 * {
     margin: 3px;
     padding: 9px;
+    box-sizing: border-box;
 }
 
 
