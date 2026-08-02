@@ -3,5 +3,5 @@
 
  Este site conta a história do Android e curiosidades!
 
-<a href= "https://dev-luishenrique.github.io/Site-Android/">
+<a href= "https://dev-luishenrique.github.io/Site-Android/">Clique para ver o Site!</a>
 
