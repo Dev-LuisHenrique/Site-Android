@@ -160,7 +160,7 @@ main img.pequena {
 
 div.video {
     background-color: var(--cor5);
-    margin: 0px -32px;
+    margin: 0px -20px;
     padding: 20px;
     aspect-ratio: 16 / 9;
     display: flex;
